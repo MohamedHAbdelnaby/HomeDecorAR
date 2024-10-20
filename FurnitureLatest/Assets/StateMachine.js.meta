@@ -1,0 +1,55 @@
+- !<AssetImportMetadata/4819bad8-7684-43da-9720-26c5146ee1c3>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 3b91428e-a918-472e-a072-fdd2e001b93c
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 3b91428e-a918-472e-a072-fdd2e001b93c
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 5320d6e2-a4ed-4dec-b165-5a8979a8a890
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/262b2e3b-2c7f-41b4-9839-73f9c67681a6>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/5320d6e2-a4ed-4dec-b165-5a8979a8a890>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    addFurnitureButton: false
+    binMesh: false
+    chairMesh: false
+    furnitureMenu: false
+    menuItemsToHide: false
+    tableMesh: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - mainMenu: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      furnitureMenu: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      placeFurnitureMenu: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      furnitureMeshes: !<reference.SceneObject[]>
+        []
+      backButtonMainMenu: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      backButtonFurnitureMenu: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      furnitureButtons: !<reference.SceneObject[]>
+        []
+      allElements: !<reference.SceneObject[]>
+        []
+      addFurnitureButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      menuItemsToHide: !<reference.SceneObject[]>
+        []
+      tableMesh: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      chairMesh: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      binMesh: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

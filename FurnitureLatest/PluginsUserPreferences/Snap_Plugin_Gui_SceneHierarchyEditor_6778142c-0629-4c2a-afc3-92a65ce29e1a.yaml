@@ -1,0 +1,44 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 38
+    values:
+      - 0005641c-028d-459a-0000-000000014b4d
+      - 04b9feda-285b-48fd-a7b0-75b96b26dd20
+      - 135eb685-af45-4290-8a14-d57770d806b8
+      - 1cbcaec7-11b1-4d94-9b1b-ccf7023531a3
+      - 1da7f812-08b9-4c7b-9b8b-996de47227b9
+      - 21866a4d-a99b-496f-8d5c-a7ef9412943e
+      - 21a3f35c-23e5-4c51-8c9c-3b476f4143c0
+      - 2e3ccea7-c319-4afe-97bb-1311d1c390e6
+      - 314dfe2a-5f35-484f-bd4a-10f3522322aa
+      - 3d5abc20-ecc7-43a9-a9a8-0bbbeb0a0417
+      - 430ada45-8398-45f6-a513-8cb02465f6f9
+      - 4fc59a56-c95f-4baa-8fce-d91f5cf51c0f
+      - 5772ff9e-cf87-4b10-8d74-d9329635251a
+      - 6035e576-d377-42df-b77f-2d2adbf076fe
+      - 630acbf1-dda0-43f8-b81d-43bd2ff24360
+      - 65119375-c44f-4915-a239-b0036b65f3c0
+      - 6ca676f2-17ee-458f-9e08-cae541aa055a
+      - 6da47214-b154-40ff-a3a2-ea5aed270acc
+      - 7ac90afd-6f7a-42aa-bb94-636d18a398a4
+      - 99075b90-78a8-4904-9d1c-96aadc490f11
+      - 9cd82af2-a416-4f0b-b8ed-62a040818439
+      - a0056b3b-d888-4503-a9ae-498c4edf0c16
+      - a293aa22-15be-4185-a505-f82678d080de
+      - a677b29a-6a93-490a-8df1-19b2ca301293
+      - a762d926-e47e-4322-9d1d-1e20f558821f
+      - a76b3abc-c7a8-4e23-a5b7-7795c09d5b4a
+      - b30c7f02-a6c1-4060-b596-e43fc82daf44
+      - b6528717-b8b4-4f07-8d85-e3d567afa59c
+      - bba897c3-d8ac-428d-b756-369a291b9119
+      - c001f175-1c73-4ceb-b0dd-3dc096ad9864
+      - cbd5926b-4931-411f-997a-83850f627db5
+      - ccfcd7b3-7092-44cb-a951-e8f477545426
+      - d16639a2-796b-4562-a94f-09a8f36263e0
+      - dabf29ff-dd5d-403e-bdb8-101a1d85b001
+      - e59d0703-7467-49f3-b930-a668b20ee0d6
+      - e6190b84-f3db-4e80-9620-f3a1af760bb7
+      - e633de71-96d0-4500-a335-6339cfe5647a
+      - fd99fdaf-73a6-466c-87fc-c2272d6b36ca
+  options: 4

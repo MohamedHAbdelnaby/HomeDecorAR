@@ -1,0 +1,6 @@
+# Ignore all files in the Cache directory
+FurnitureLatest/Cache/
+
+# Ignore files with specific extensions
+*.pvr
+*.png
